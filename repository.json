@@ -1,5 +1,5 @@
 {
-    "name": "Home Assistant Add-on: Actual Budget",
-    "url": "https://github.com/sztupy/hassio-actualbudget",
-    "maintainer": "Zsolt Sz. Sz. Raven <zsolt@raven.scot>"
+    "name": "Home Assistant Add-on: Actual Budget - Ingress ready",
+    "url": "https://github.com/okch-codes/hassio-actualbudget-ingress-ready",
+    "maintainer": "okch"
   }
