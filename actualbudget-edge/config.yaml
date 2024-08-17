@@ -1,7 +1,7 @@
 name: "Actual Budget Edge - Ingress ready"
 description: "Run the latest development version of Actual Budget."
 url: "https://actualbudget.org"
-slug: "actualbudget-edge"
+slug: "actualbudget-edge-ingress-ready"
 init: false
 arch:
   - aarch64
