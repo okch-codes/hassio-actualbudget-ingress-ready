@@ -1,4 +1,4 @@
-name: "Actual Budget Stable"
+name: "Actual Budget Stable - Ingress ready"
 description: "Run the latest stable version of Actual Budget."
 url: "https://actualbudget.org"
 slug: "actualbudget"
