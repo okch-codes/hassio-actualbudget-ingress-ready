@@ -16,4 +16,4 @@ ports:
 ingress: true
 ingress_port: 5006
 image: ghcr.io/actualbudget/actual-server
-version: 24.8.0-alpine
+version: 24.10.1-alpine
